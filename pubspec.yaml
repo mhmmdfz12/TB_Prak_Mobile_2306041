@@ -1,0 +1,26 @@
+name: tb_2306041
+description: Aplikasi e-commerce UAS Praktikum Pemrograman Mobile.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  shared_preferences: ^2.3.2
+  intl: ^0.19.0
+  cached_network_image: ^3.4.1
+  flutter_rating_bar: ^4.0.1
+  flutter_local_notifications: ^17.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
