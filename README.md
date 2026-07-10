@@ -2,6 +2,13 @@
 
 Aplikasi e-commerce Flutter untuk UAS Praktikum Pemrograman Mobile.
 
+
+---
+## Identitas Mahasiswa
+- **Nama**: Muhammad Faiz Alfarizi
+- **NIM**: 2306041
+- **Kelas**: Informatika B
+
 ## Fitur utama
 
 - Register dan login JWT.
@@ -54,3 +61,14 @@ flutter run
 ```
 
 Pastikan backend lokal sudah berjalan di port `3000`.
+
+## Screenshot ##
+Berikut adalah tampilan antarmuka dari aplikasi IzShop:
+
+| Halaman Beranda (Home) | Halaman Pesanan |
+| :---: | :---: | :---: |
+| ![Beranda](screenshots/home.png) | ![Pesanan](screenshots/pesanan.png) | 
+
+| Halaman Keranjang Belanja | Halaman Wishlist | Halaman Profil |
+| :---: | :---: | :---: |
+| ![Keranjang](screenshots/keranjang.png) | ![Wishlist](screenshots/wishlist.png) | ![Profik](screenshots/profil.png) |
