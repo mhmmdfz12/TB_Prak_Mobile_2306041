@@ -67,8 +67,8 @@ Berikut adalah tampilan antarmuka dari aplikasi IzShop:
 
 | Halaman Beranda (Home) | Halaman Pesanan |
 | :---: | :---: | :---: |
-| ![Beranda](screenshots/home.png) | ![Pesanan](screenshots/pesanan.png) | 
+| ![Beranda](screenshot/home.png) | ![Pesanan](screenshot/pesanan.png) | 
 
 | Halaman Keranjang Belanja | Halaman Wishlist | Halaman Profil |
 | :---: | :---: | :---: |
-| ![Keranjang](screenshots/keranjang.png) | ![Wishlist](screenshots/wishlist.png) | ![Profik](screenshots/profil.png) |
+| ![Keranjang](screenshot/keranjang.png) | ![Wishlist](screenshot/wishlist.png) | ![Profik](screenshot/profil.png) |
